@@ -1,0 +1,39 @@
+TEST CASE 1
+Student Name: Neha
+Marks: 95
+Expected Grade: A
+Result: PASS
+
+TEST CASE 2
+Student Name: Priya
+Marks: 85
+Expected Grade: B
+Result: PASS
+
+TEST CASE 3
+Student Name: Rahul
+Marks: 75
+Expected Grade: C
+Result: PASS
+
+TEST CASE 4
+Student Name: Aman
+Marks: 65
+Expected Grade: D
+Result: PASS
+
+TEST CASE 5
+Student Name: Riya
+Marks: 45
+Expected Grade: F
+Result: PASS
+
+TEST CASE 6
+Marks: 120
+Expected Result: Invalid Input Message
+Result: PASS
+
+TEST CASE 7
+Marks: -10
+Expected Result: Invalid Input Message
+Result: PASS
